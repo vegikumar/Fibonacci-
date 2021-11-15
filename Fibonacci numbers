@@ -2,6 +2,8 @@ n=int(input("Enter number of Fibonacci number :"))
 a=0
 b=1
 c=a+b
+print(a)
+print(b)
 while c <= n:
     print(c)
     a=b
